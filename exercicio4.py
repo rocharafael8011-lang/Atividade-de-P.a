@@ -18,4 +18,4 @@ for linha in matriz:
         print(f"{valor:4}", end=" ")
     print("]")
     
-print(f"A qunridade de numeros maiores que dez dentro da matriz é: {vcontNumerosMaiorQueDez}")
+print(f"A quntidade de numeros maiores que dez dentro da matriz é: {vcontNumerosMaiorQueDez}")
