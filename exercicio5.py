@@ -17,7 +17,7 @@ for i in range(3):
         if j > i:
             soma += matriz[i][j]
             
-# aprensenta a matriz que o usuario digitou
+# aprensenta a matriz que o usuario digitou.
 print("________MATRIZ DO USUARIO_______")
 
 for linha in matriz:
